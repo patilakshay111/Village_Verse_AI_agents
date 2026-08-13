@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.env
+.cursor/
+.pytest_cache/
+.benchmarks/
+.venv/
+venv/
+data/*.db
+*.egg-info/
+dist/
+build/
+node_modules/
+frontend/dist/
+frontend/tsconfig.tsbuildinfo
