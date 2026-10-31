@@ -1,4 +1,3 @@
-# VillageVerse
 
 
 \<div align="center">
