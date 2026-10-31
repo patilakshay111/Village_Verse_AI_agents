@@ -1,7 +1,4 @@
 
-
-\<div align="center">
-
 # 🌍 Village Verse — AI Agents
 
 ### An Autonomous AI Village Where Intelligent Agents Live, Interact & Evolve
