@@ -264,13 +264,6 @@ It helps support experimentation and development in autonomous AI systems.
 
 **Built to explore the future of autonomous AI societies.**
 
-\</div>
-
----
-
-\<div align="center">
-\<sub>Village Verse • An experimental exploration of multi-agent intelligence\</sub>
-\</div>
 
 
 Multi-agent Indian village simulation (Anandgaon).
